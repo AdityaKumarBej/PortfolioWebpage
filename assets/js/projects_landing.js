@@ -19,11 +19,11 @@ const research = [
 AOS.init();   
 
 function redirectToProjects1(){
-    location.href = '../projects.html';
+    location.href = 'projects.html';
 }
 
 function redirectToProjects2(){
-    location.href = '../data_structs.html';
+    location.href = 'data_structs.html';
 }
 
 
