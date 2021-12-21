@@ -13,7 +13,7 @@ const projects = [
     Githublink: "https://github.com/AdityaKumarBej/PortfolioWebpage",
   },
   {
-    title: "Mind-Controlled",
+    title: "Mind-Controlled Wheelchair",
     cardImage: "images/mind_controlled_wheelchair.jpeg",
     description: "Research Paper Publication link",
     Previewlink: "",
